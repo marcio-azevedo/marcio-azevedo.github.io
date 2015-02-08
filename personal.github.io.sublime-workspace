@@ -11,7 +11,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 12378,
+				"buffer_size": 12144,
 				"line_ending": "Unix"
 			}
 		}
@@ -82,15 +82,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 12378,
+						"buffer_size": 12144,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1113,
-								1113
+								3655,
+								3655
 							]
 						],
 						"settings":
@@ -100,7 +100,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 292.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -164,6 +164,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 171.0,
 	"status_bar_visible": true
 }
