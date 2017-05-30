@@ -3,6 +3,7 @@ marcio-azevedo.github.io
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/marcio-azevedo/my-stack)
 
-Personal Page at http://marcio-azevedo.github.io/
+[A Noble Quest](https://anoblequest.wordpress.com/)
+[LinkedIn](https://www.linkedin.com/in/marcioazevedo/)
 
-Presentations at https://marcio-azevedo.github.io/paket-presentation/
+[Paket Presentations](https://marcio-azevedo.github.io/paket-presentation/default/)
