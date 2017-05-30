@@ -6,4 +6,4 @@ marcio-azevedo.github.io
 [A Noble Quest](https://anoblequest.wordpress.com/)
 [LinkedIn](https://www.linkedin.com/in/marcioazevedo/)
 
-[Paket Presentations](https://marcio-azevedo.github.io/paket-presentation/default/)
+[Paket Presentation](https://marcio-azevedo.github.io/paket-presentation/default/)
