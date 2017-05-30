@@ -5,4 +5,4 @@ marcio-azevedo.github.io
 
 Personal Page at http://marcio-azevedo.github.io/
 
-Presentations at https://marcio-azevedo.github.io/presentations/
+Presentations at https://marcio-azevedo.github.io/paket-presentation/
